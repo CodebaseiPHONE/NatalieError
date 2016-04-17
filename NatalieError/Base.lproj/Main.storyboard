@@ -147,7 +147,7 @@
         <!--Dashboard-->
         <scene sceneID="n7s-ae-ue7">
             <objects>
-                <viewControllerPlaceholder storyboardName="Dashboard" id="B7Z-BU-I7k" sceneMemberID="viewController"/>
+                <viewControllerPlaceholder storyboardIdentifier="myID" storyboardName="Dashboard" id="B7Z-BU-I7k" sceneMemberID="viewController"/>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="a1z-XH-j6v" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="1119.5" y="0.0"/>
